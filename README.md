@@ -1,9 +1,9 @@
 **INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-**
 ```
-**DATE**: 22-02-2024
-**NAME**: V RAKSHA DHARANIKA
-**ROLL NO**: 212223230167
-**DEPARTMANT**: AIDS
+DATE  : 22-02-2024
+NAME  : V RAKSHA DHARANIKA
+ROLL NO : 212223230167
+DEPARTMENT: AIDS
 ```
 **AIM**:  To interface a Analog  input (angular displacement sensor POT) and scale the values up on change in the input.
 
